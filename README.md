@@ -9,8 +9,14 @@
 <hr>
 
 <div>
-  ## FLUXOGRAMA, PALETA DE CORES, PROTOTIPO E ?APMAPSS???
-  ## FALTAAAAAAAAAAAAAAAAAA
+  <h4>Fluxograma</h4>
+    <img height="500" src="imgReadme/fluxo.jpg" alt="Fluxograma">
+  <h4>Cores</h4>
+    <img width="800" src="imgReadme/cores.jpg" alt="Paleta de cores">
+  <h4>AppMaps</h4>
+    <img height="400" width="500" src="imgReadme/maps.jpg" alt="appMaps">
+  <h4>Prototipação</h4>
+    <img height="500" src="imgReadme/prototipo.jpg" alt="Prototipação">
 </div>
 
 <hr>
